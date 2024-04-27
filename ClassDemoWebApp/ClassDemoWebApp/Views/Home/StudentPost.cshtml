@@ -1,0 +1,31 @@
+﻿<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student</th>
+            <th>ID</th>
+            <th>GPA</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model is not null)
+        {
+            @foreach (StudentProfile prof in Model)
+            {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => prof.Name)</td>
+                <td>@Html.DisplayFor(modelItem => prof.Id)</td>
+                <td>@Html.DisplayFor(modelItem => prof.GPA)<td>
+                <td>@Html.DisplayFor(modelItem => prof.StudentEmail)<td>
+                <td>@Html.DisplayFor(modelItem => prof.PhoneNumber)<td>
+            </tr>
+            }
+        }
+    </tbody>
+
+
+</table>
+

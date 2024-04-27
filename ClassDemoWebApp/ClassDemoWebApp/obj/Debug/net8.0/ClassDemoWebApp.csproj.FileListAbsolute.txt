@@ -1,0 +1,7 @@
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.AssemblyInfoInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.AssemblyInfo.cs
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.csproj.CoreCompileInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.RazorAssemblyInfo.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\ClassDemoWebApp\ClassDemoWebApp\obj\Debug\net8.0\ClassDemoWebApp.RazorAssemblyInfo.cs
